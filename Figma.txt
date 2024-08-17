@@ -1,0 +1,46 @@
+This is TXT file of figma file
+Design the Header Section:
+1.Add a rectangle at the top of the canvas to represent the header.
+Add text layers for the logo (Digital Agency), navigation links (Home, About Us, Services, Testimonials, Contact), and the contact information (+1-234-567-890, email@example.com).
+Add a button element with the text Request a Quote.
+
+2. Design the Hero Section:
+Add another rectangle below the header for the hero section.
+Insert a large text layer for the main heading (Creative Digital Agency).
+Add a paragraph for the supporting text.
+Design two buttons (Read More, Request a Consultation).
+
+3. Design the Features Section:
+Add three rectangles representing each feature block.
+Insert images or icons for each feature (e.g., rocket.png, team-building.png, clocks.png).
+Add text layers for the feature titles (Launch Business, Online Support Team, Time Management).
+Add paragraphs for the feature descriptions.
+
+4. Design the About Section:
+Add a large text layer for the heading (About Us).
+Insert a paragraph for the detailed description.
+Add a button for the Read More action.
+
+5. Design the Services Section:
+Add three rectangles representing each service block.
+Insert images or icons for each service (e.g., customer-review.png, creative-thinking.png, vision.png).
+Add text layers for the service titles (User Experience, Creative Design, Retina Ready).
+Add paragraphs for the service descriptions.
+
+6. Design the Contact Section:
+Add a large text layer for the heading (Contact Us).
+Create form fields using rectangles and text layers (for Name, Email, Message).
+Add a button for the Send Message action.
+
+7. Design the Footer:
+Add a rectangle at the bottom for the footer background.
+Insert a text layer for the footer text (&copy; 2024 Your Company. All rights reserved.).
+
+8. Add Styling and Final Touches:
+Apply consistent fonts and colors throughout the design.
+Use auto-layout in Figma to manage spacing and alignment.
+Apply background images or gradients where needed.
+Group related elements and name layers for better organization.
+
+9. Export the Figma Design:
+You can export assets (like images and icons) and use the design to create corresponding HTML and CSS.
